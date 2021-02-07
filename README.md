@@ -13,7 +13,7 @@
 I created an application that creates new workouts and adds exercises to existing ones. The user is also able to track specific details about the exercise (i.e. weight, reps, distance etc). 
 
 ## First Look: 
-
+![workout-tracker](https://user-images.githubusercontent.com/69092983/107154099-b3c33f80-6936-11eb-9e7a-36743dac9d60.gif)
 
 ## Technologies Used: 
 * [NodeJS](https://nodejs.org/en/)
@@ -21,7 +21,7 @@ I created an application that creates new workouts and adds exercises to existin
 * [Heroku](https://www.heroku.com/)
 
 ## Installation:
-In order to get started on this application, you will first need to ```git clone``` the GitHub repository onto your local repository. Then, do an ```npm i``` to install all of your node modules. Lastly, create a ```.gitignore``` file for your node modules.  
+In order to get started on this application, you will first need to ```git clone``` the GitHub repository onto your current working directory. Then, do an ```npm i``` to install all of your node modules. Lastly, create a ```.gitignore``` file for your node modules.  
 
 ## License: 
 MIT License
