@@ -23,6 +23,9 @@ I created an application that creates new workouts and adds exercises to existin
 ## Installation:
 In order to get started on this application, you will first need to ```git clone``` the GitHub repository onto your current working directory. Then, do an ```npm i``` to install all of your node modules. Lastly, create a ```.gitignore``` file for your node modules.  
 
+## Link to Deployed App: 
+* [workout-tracker](https://nameless-waters-82989.herokuapp.com/?id=602021169af1e600156b0a8e)
+
 ## License: 
 MIT License
 
